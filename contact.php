@@ -111,7 +111,15 @@
      <!-- CONTENT -->
      </div>
      <div class="col-9">
-     <center><h2>CONTACT</h2></center> 
+     <center><h2>CONTACT US</h2></center> 
+     <div class="mb-3">
+  <label for="exampleFormControlInput1" class="form-label">Email address</label>
+  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="masukkan email">
+</div>
+<div class="mb-3">
+  <label for="exampleFormControlTextarea1" class="form-label">Kendala</label>
+  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+</div>
         </div>
       </div>
       <!-- AKHIR CONTENT -->

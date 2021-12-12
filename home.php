@@ -112,6 +112,8 @@
      </div>
      <div class="col-9">
         <h3>SISTEM INFORMASI DAN PERIZINAN PESANTREN MODERN MISBAHUL ULUM</h3>
+        <br>
+        <img src="foto.jpg"style="width:95%; height:80%">
         </div>
       </div>
       <!-- AKHIR CONTENT -->
